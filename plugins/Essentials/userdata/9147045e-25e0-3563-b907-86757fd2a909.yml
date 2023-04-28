@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: true
+ip-address: 90.103.1.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681662338211
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682609367571
+  login: 1682609202233
+money: '487.744999999999953'
+last-account-name: didih62
+logoutlocation:
+  world: 57e6ee5d-7c34-4ef8-9086-34686041ef3c
+  world-name: world_nether
+  x: 7.019076556295391
+  y: 74.0
+  z: -3.466461992135525
+  yaw: 238.65013122558594
+  pitch: 90.0
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 646.4807549445285
+  y: 78.00133597911214
+  z: 749.2868886271796
+  yaw: -163.19921875
+  pitch: -28.200098037719727
+jail: prison

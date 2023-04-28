@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.208.58.146
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681071533617
+  login: 1681070561312
+money: '0'
+last-account-name: keylian_84
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: -125.95357194909136
+  y: 78.0
+  z: 824.5542904697223
+  yaw: 283.315673828125
+  pitch: 31.13472557067871
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 66.73064920599035
+  y: 67.0
+  z: -93.69999998807907
+  yaw: -3.373073101043701
+  pitch: 50.773929595947266

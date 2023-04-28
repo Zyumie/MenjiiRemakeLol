@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.163.81.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681664667443
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681665701564
+  login: 1681659800231
+money: '0'
+last-account-name: roipoulets
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 259.9901060164841
+  y: 101.0
+  z: 357.8163400674993
+  yaw: 226.1976776123047
+  pitch: 41.24966812133789
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 273.5
+  y: 101.0
+  z: 359.5
+  yaw: 265.1739501953125
+  pitch: 69.10737609863281

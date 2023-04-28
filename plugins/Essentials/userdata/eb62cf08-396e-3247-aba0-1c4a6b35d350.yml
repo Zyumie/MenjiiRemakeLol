@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.81.174.85
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682700547563
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682701544422
+  login: 1682700838955
+money: '0'
+last-account-name: MarkisRK
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 90.16070959001944
+  y: 91.4329345530101
+  z: -97.2741501289891
+  yaw: -130.21885681152344
+  pitch: 27.656654357910156
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 207.88002228728698
+  y: 107.0
+  z: 226.25750916094526
+  yaw: 167.246826171875
+  pitch: 39.530128479003906

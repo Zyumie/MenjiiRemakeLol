@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.158.50.39
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682022057306
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682025098765
+  login: 1682018798055
+money: '57.658500000000002'
+last-account-name: LB_titi
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: -228.1919230566425
+  y: 79.0
+  z: 821.7294811770171
+  yaw: 173.26834106445312
+  pitch: 15.749269485473633
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 82.82217883011523
+  y: 68.0
+  z: -106.00622250682305
+  yaw: -119.31320190429688
+  pitch: 14.830621719360352
+homes:
+  maison:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: -199.80710888941678
+    y: 75.0
+    z: 843.0709887198195
+    yaw: 2.727357864379883
+    pitch: 26.99966812133789
+  wankil:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: 647.4524213278728
+    y: 82.0
+    z: 155.78563837382163
+    yaw: -274.951904296875
+    pitch: 6.300137519836426
+  end:
+    world: ca245148-85d2-4464-ba2c-7beddd1a9c21
+    world-name: world_the_end
+    x: 0.5210902516548209
+    y: 63.0
+    z: -8.178455957376933
+    yaw: -72.71809387207031
+    pitch: 6.1499247550964355

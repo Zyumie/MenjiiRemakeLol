@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.253.171.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681150590597
+  login: 1681149414184
+money: '0'
+last-account-name: DestYxnia
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 2764.6956700114906
+  y: 44.0
+  z: -2363.699999988079
+  yaw: 44.1204833984375
+  pitch: -0.299793004989624
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 4582.349456897858
+  y: 66.25220334025373
+  z: -3537.8914031908744
+  yaw: -167.2420654296875
+  pitch: 21.001014709472656

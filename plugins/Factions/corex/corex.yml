@@ -1,0 +1,55 @@
+#     ██████╗ ██████╗ ██████╗ ███████╗██╗  ██╗    ███████╗███████╗ █████╗ ████████╗██╗   ██╗██████╗ ███████╗███████╗
+#    ██╔════╝██╔═══██╗██╔══██╗██╔════╝╚██╗██╔╝    ██╔════╝██╔════╝██╔══██╗╚══██╔══╝██║   ██║██╔══██╗██╔════╝██╔════╝
+#    ██║     ██║   ██║██████╔╝█████╗   ╚███╔╝     █████╗  █████╗  ███████║   ██║   ██║   ██║██████╔╝█████╗  ███████╗
+#    ██║     ██║   ██║██╔══██╗██╔══╝   ██╔██╗     ██╔══╝  ██╔══╝  ██╔══██║   ██║   ██║   ██║██╔══██╗██╔══╝  ╚════██║
+#    ╚██████╗╚██████╔╝██║  ██║███████╗██╔╝ ██╗    ██║     ███████╗██║  ██║   ██║   ╚██████╔╝██║  ██║███████╗███████║
+Features:
+  Anti-Boat-Placement: false
+  Anti-Minecart-Placement: false
+  Anti-Vehicle-Teleport: true
+  EnderPearl-Cooldown: false
+  Anti-Nether-Portal: false
+  Anti-End-Portal: false
+  No-Cursor-Drop: true
+  Armor-Swap: true
+  Blocked-Enchantments: false
+  Anti-Block-Placement: true
+  Anti-Baby-Zombies: true
+  Anti-Mob-Movement: false
+  Anti-Mob-Targeting: false
+  Iron-Golem-Health: true
+  Water-Proof-Blazes: true
+  Anti-Book-Quill-Crash: true
+  Anti-Dupe: true
+  Anti-Nether-Roof: true
+  Anti-Piston-Glitch: false
+  Anti-Wilderness-Spawner: false
+  Auto-Respawn: false
+  Book-Disenchant: false
+  Border-Patches: true
+  Anti-Explosion-Damage: false
+  Anti-Dragon-Egg-TP: true
+  Enemy-Spawner-Mine: false
+  Insta-Sponge-Break: true
+  Anti-Natural-Mobs: false
+  God-Apple-Cooldown: false
+  Global-Gamemode: true
+AntiSpawnerMine:
+  Radius: 20.0
+Cooldowns:
+  EnderPearl: 15
+  God_Apple: 60
+ironGolemHealth: 50.0
+BlockedEnchants:
+- example
+Armor-Swap-Cooldown: 500
+Denied-Blocks:
+- BEDROCK
+Anti-Mob-Movement:
+  Mob-List:
+  - CREEPER
+  - BLAZE
+Anti-Mob-Targeting:
+  Mob-List:
+  - CREEPER
+  - BLAZE

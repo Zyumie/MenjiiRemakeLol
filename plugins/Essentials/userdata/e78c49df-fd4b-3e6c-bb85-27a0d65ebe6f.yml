@@ -1,0 +1,65 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.15.65.71
+afk: true
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1682614742368
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682617563923
+  login: 1682609860671
+  kits:
+    notch: 1682611582855
+money: '9498.67314999999160946'
+last-account-name: NotOlo
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 237.44906135555104
+  y: 96.0
+  z: 313.37788535230715
+  yaw: 19.412200927734375
+  pitch: 38.88702392578125
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 74.41906525256067
+  y: 89.0
+  z: 200.99769484554767
+  yaw: 95.41033935546875
+  pitch: 17.781545639038086
+homes:
+  home:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: 1183.074300106704
+    y: 67.0
+    z: 353.2830180271118
+    yaw: 220.9697265625
+    pitch: 27.531553268432617
+  mlg_:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: 1184.060167490855
+    y: 67.0
+    z: 352.1476278762409
+    yaw: 220.9697265625
+    pitch: 27.531553268432617
+  menjii:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: -318.6863908143721
+    y: 39.0
+    z: 1119.3278004131853
+    yaw: 162.67852783203125
+    pitch: 15.512249946594238

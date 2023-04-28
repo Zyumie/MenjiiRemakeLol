@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.158.50.39
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681590031888
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681641428535
+  login: 1681638204067
+money: '0'
+last-account-name: _MatMonBoul_
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: -228.05595920928621
+  y: 83.0
+  z: 808.552444121755
+  yaw: 251.04315185546875
+  pitch: 42.44955825805664
+lastlocation:
+  world: 08a4aed2-41ae-4454-8229-21ce69728dd9
+  world-name: world_the_end
+  x: -1928.2740572479422
+  y: 94.0
+  z: -1179.300000011921
+  yaw: -70.80987548828125
+  pitch: 42.749366760253906
+homes:
+  village_pr:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: -217.56931261809308
+    y: 79.0
+    z: 827.6645108672282
+    yaw: -1.5888671875
+    pitch: 30.89989471435547
+  maison:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: -152.88523644435747
+    y: 66.0
+    z: 853.1794470224024
+    yaw: -94.04293823242188
+    pitch: 42.89976119995117
+  end:
+    world: 08a4aed2-41ae-4454-8229-21ce69728dd9
+    world-name: world_the_end
+    x: -923.9556523501735
+    y: 138.0
+    z: -1530.0572929153036
+    yaw: -6.306491851806641
+    pitch: 23.849367141723633

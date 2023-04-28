@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 193.57.121.151
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681746218567
+  login: 1681745047496
+money: '0'
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 69.5
+  y: 65.0
+  z: -76.5
+  yaw: 2.969881534576416
+  pitch: 0.0
+last-account-name: Loetasec
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 17.580887150753224
+  y: 71.0
+  z: 32.30000001192093
+  yaw: -53.39599609375
+  pitch: 3.4497885704040527

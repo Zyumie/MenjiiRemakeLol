@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.176.237.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1682707040848
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682707063432
+  login: 1682707012070
+money: '16625.71962499996660667'
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 73.87450899337763
+  y: 89.90776733695704
+  z: -97.22025479955649
+  yaw: -41.106170654296875
+  pitch: 16.285547256469727
+last-account-name: Zyumie
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 204.26122808145485
+  y: 96.5
+  z: 242.22791200393613
+  yaw: -162.7778778076172
+  pitch: 21.138919830322266
+homes:
+  maison:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: 582.0561262939297
+    y: 84.0
+    z: 196.74918642970806
+    yaw: -160.490966796875
+    pitch: 14.849811553955078

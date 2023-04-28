@@ -1,0 +1,150 @@
+# 
+#   ____
+#  |  _ \ ___ _ __ _ __ ___  ___
+#  | |_) / _ \ '__| '_ ` _ \/ __|
+#  |  __/  __/ |  | | | | | \__ \
+#  |_|   \___|_|  |_| |_| |_|___/
+factions:
+  managesafezone: MANAGE_SAFE_ZONE
+  managewarzone: MANAGE_WAR_ZONE
+  ownershipbypass: OWNERSHIP_BYPASS
+  admin:
+    any: ADMIN_ANY
+  alts: ALTS
+  ahome: AHOME
+  announce: ANNOUNCE
+  audit: AUDIT
+  autoclaim: AUTOCLAIM
+  autoleavebypass: AUTO_LEAVE_BYPASS
+  ban: BAN
+  bypass: BYPASS
+  chat: CHAT
+  chatspy: CHATSPY
+  check: CHECK
+  claim:
+    line: CLAIM_LINE
+    radius: CLAIM_RADIUS
+  claimat: CLAIMAT
+  claimfill: CLAIM_FILL
+  config: CONFIG
+  create: CREATE
+  corner: CORNER
+  debug: DEBUG
+  defaultrank: DEFAULTRANK
+  deinvite: DEINVITE
+  delhome: DELHOME
+  description: DESCRIPTION
+  disband:
+    any: DISBAND_ANY
+  discord: DISCORD
+  drain: DRAIN
+  fly:
+    wilderness: FLY_WILDERNESS
+    safezone: FLY_SAFEZONE
+    warzone: FLY_WARZONE
+    enemy: FLY_ENEMY
+    ally: FLY_ALLY
+    truce: FLY_TRUCE
+    neutral: FLY_NEUTRAL
+  focus: FOCUS
+  globalchat: GLOBALCHAT
+  grace: GRACE
+  help: HELP
+  home: HOME
+  invite: INVITE
+  invsee: INVSEE
+  join:
+    any: JOIN_ANY
+    others: JOIN_OTHERS
+  kick:
+    any: KICK_ANY
+  leave: LEAVE
+  list: LIST
+  lock: LOCK
+  lockspawners: LOCKSPAWNERS
+  logout: LOGOUT
+  lookup: LOOKUP
+  map: MAP
+  mapheight: MAPHEIGHT
+  mod:
+    any: MOD_ANY
+  notifications: NOTIFICATIONS
+  coleader:
+    any: COLEADER_ANY
+  missions: MISSIONS
+  modifypower: MODIFY_POWER
+  money:
+    balance:
+      any: MONEY_BALANCE_ANY
+    deposit: MONEY_DEPOSIT
+    withdraw:
+      any: MONEY_WITHDRAW_ANY
+    f2f: MONEY_F2F
+    f2p: MONEY_F2P
+    p2f: MONEY_P2F
+  monitorlogins: MONITOR_LOGINS
+  near: NEAR
+  noboom: NO_BOOM
+  open: OPEN
+  owner: OWNER
+  ownerlist: OWNERLIST
+  reserve: RESERVE
+  setguild: SET_GUILD
+  setpeaceful: SET_PEACEFUL
+  setpermanent: SET_PERMANENT
+  setpermanentpower: SET_PERMANENTPOWER
+  showinvites: SHOW_INVITES
+  paypal: PAYPAL
+  setpaypal: PAYPALSET
+  permissions: PERMISSIONS
+  points: POINTS
+  powerboost: POWERBOOST
+  power:
+    any: POWER_ANY
+  promote: PROMOTE
+  relation: RELATION
+  reload: RELOAD
+  save: SAVE
+  spam: SPAM
+  setdiscord: SETDISCORD
+  sethome:
+    any: SETHOME_ANY
+  setstrikes: SETSTRIKES
+  show: SHOW
+  status: STATUS
+  stealth: STEALTH
+  stuck: STUCK
+  tag: TAG
+  toggletitles: TOGGLE_TITLES
+  tnt: TNT
+  title:
+    color: TITLE_COLOR
+  togglealliancechat: TOGGLE_ALLIANCE_CHAT
+  unclaim: UNCLAIM
+  unclaimall: UNCLAIM_ALL
+  version: VERSION
+  scoreboard: SCOREBOARD
+  seechunk: SEECHUNK
+  setwarp: SETWARP
+  shop: SHOP
+  top: TOP
+  viewchest: VIEWCHEST
+  addpoints: ADDPOINTS
+  removepoints: REMOVEPOINTS
+  setpoints: SETPOINTS
+  vault: VAULT
+  getvault: GETVAULT
+  setmaxvaults: SETMAXVAULTS
+  rules: RULES
+  checkpoint: CHECKPOINT
+  upgrades: UPGRADES
+  banner: BANNER
+  tpbanner: TPBANNER
+  killholos: KILLHOLOS
+  inspect: INSPECT
+  tntfill: TNTFILL
+  coords: COORD
+  showclaims: SHOWCLAIMS
+  warp: WARP
+  wild: WILD
+  chest: CHEST

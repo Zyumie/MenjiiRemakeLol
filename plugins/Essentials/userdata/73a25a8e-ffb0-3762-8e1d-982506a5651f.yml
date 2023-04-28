@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.212.180.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682100376458
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682100576304
+  login: 1682095932263
+money: '0'
+last-account-name: ABpx
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: -869.1429950586429
+  y: 63.0
+  z: 1722.9729736273546
+  yaw: 198.99114990234375
+  pitch: 17.862346649169922
+homes:
+  medieval:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: -192.95386438994623
+    y: 75.0
+    z: 834.8138769808543
+    yaw: -271.9720764160156
+    pitch: 22.69438362121582
+  mine:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: -916.9616166937985
+    y: 31.0
+    z: 1748.4761491247086
+    yaw: 124.71551513671875
+    pitch: 35.240055084228516
+  ile:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: -873.126765396866
+    y: 64.0
+    z: 1715.947699952915
+    yaw: 73.45069885253906
+    pitch: 19.30365562438965
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: -918.6033423839268
+  y: 31.0
+  z: 1746.082277216545
+  yaw: 180.66207885742188
+  pitch: 45.836029052734375

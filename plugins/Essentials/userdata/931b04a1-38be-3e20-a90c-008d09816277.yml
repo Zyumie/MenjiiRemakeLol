@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.172.83.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682700238314
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682705476015
+  login: 1682705449710
+money: '0'
+last-account-name: wolficookie1
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 205.53169492989224
+  y: 107.0
+  z: 217.5509507706612
+  yaw: -269.0169372558594
+  pitch: 25.00105857849121
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 225.8563899593746
+  y: 99.5
+  z: 235.85648460221205
+  yaw: -9.501877784729004
+  pitch: -0.7036545276641846
+homes:
+  statue:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: -232.2017959727224
+    y: 87.20000004768372
+    z: 792.9983098210203
+    yaw: 242.92938232421875
+    pitch: 18.205345153808594
+nickname: wolficookie1

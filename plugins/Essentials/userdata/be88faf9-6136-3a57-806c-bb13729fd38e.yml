@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.176.237.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681763528955
+  login: 1681763464189
+money: '0'
+last-account-name: Yuyu
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 59.5
+  y: 65.0
+  z: -71.5
+  yaw: 4.7961859703063965
+  pitch: 0.0
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 75.0258391355895
+  y: 68.0
+  z: -100.73278822281831
+  yaw: -237.03382873535156
+  pitch: 17.812713623046875

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.176.40.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682644349344
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682644411499
+  login: 1682641796686
+money: '0'
+last-account-name: BIGSHOTFR
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 75.36871056032139
+  y: 87.0
+  z: -100.4613269867054
+  yaw: -177.82568359375
+  pitch: 4.200556755065918
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 40.5
+  y: 70.0
+  z: -149.5
+  yaw: -263.17559814453125
+  pitch: -10.049452781677246

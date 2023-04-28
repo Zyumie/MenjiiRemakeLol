@@ -1,0 +1,96 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.237.54.188
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682702079654
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682702684432
+  login: 1682700616223
+money: '5116.06990000000000829'
+last-account-name: Patouchlamouche
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 1225.9627589607242
+  y: 63.0
+  z: 2037.7675973488833
+  yaw: 37.293212890625
+  pitch: 15.698492050170898
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 1705.0293133317173
+  y: 67.37020087700593
+  z: 381.82949276576505
+  yaw: 253.63348388671875
+  pitch: 61.04239273071289
+homes:
+  buche:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: -122.34265084001673
+    y: 61.0
+    z: 1025.699999988079
+    yaw: -291.3248291015625
+    pitch: 0.17238478362560272
+  base:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: 1704.8368296876497
+    y: 64.0
+    z: 382.1851935005392
+    yaw: 259.1372375488281
+    pitch: 40.20676040649414
+  bastion:
+    world: 57e6ee5d-7c34-4ef8-9086-34686041ef3c
+    world-name: world_nether
+    x: 574.4962363463877
+    y: 33.0
+    z: 359.64453908384604
+    yaw: 306.3435974121094
+    pitch: 28.56275177001953
+  end:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: 1626.1784657522212
+    y: 27.0
+    z: -434.548308522287
+    yaw: 270.0097961425781
+    pitch: 6.715544700622559
+  end1:
+    world: ca245148-85d2-4464-ba2c-7beddd1a9c21
+    world-name: world_the_end
+    x: -2007.6923077340555
+    y: 57.0
+    z: -1263.4350883615757
+    yaw: 161.39129638671875
+    pitch: 21.68732261657715
+  end2:
+    world: ca245148-85d2-4464-ba2c-7beddd1a9c21
+    world-name: world_the_end
+    x: -2625.300000011921
+    y: 37.0
+    z: -1246.699999988079
+    yaw: -314.3055419921875
+    pitch: -3.154313325881958
+  village:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: 1261.9662741762538
+    y: 74.0
+    z: -488.44713355290764
+    yaw: -16.84942626953125
+    pitch: 49.29975509643555
+nickname: Haiko_o

@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.160.147.74
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682615735569
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682616671246
+  login: 1682613948055
+money: '5861.48025000000017234'
+last-account-name: El_Six0s
+lastlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 69.16642798512284
+  y: 89.0
+  z: 200.60325144224382
+  yaw: 173.973388671875
+  pitch: 20.54720687866211
+logoutlocation:
+  world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+  world-name: world
+  x: 79.10627586767367
+  y: 89.0
+  z: 200.3374719538894
+  yaw: 93.766357421875
+  pitch: 6.5079545974731445
+homes:
+  maison:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: 336.5
+    y: 64.0
+    z: 341.5759348079405
+    yaw: 278.7637939453125
+    pitch: 38.16663360595703
+  stuff:
+    world: 88ce072f-baa6-48c4-ad93-6967d5e3d91e
+    world-name: world
+    x: 342.786502653215
+    y: 65.0
+    z: 345.63513104882566
+    yaw: 118.59182739257812
+    pitch: 21.326465606689453
